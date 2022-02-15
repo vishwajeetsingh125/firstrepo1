@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Crud {
 	public static void main(String args[]) {
-
+//test
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter 1 if you want to create a  new entry  ");
 		System.out.println("Enter 2 if you want to read records  ");
